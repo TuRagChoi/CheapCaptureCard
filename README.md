@@ -25,7 +25,7 @@ https://www.python.org/
 pip install opencv-python && pip install numpy && pip install PyAudio
 ```
 
-<p>3. If on first start of the program you hear no audio or see no video download and open the devices.py file and open it and choose your devices from there and edit the number of the lines ** and ** or set your default mic to your Capture Card device</p>
+<p>3. If on first start of the program you hear no audio or see no video download and open the devices.py file and open it and choose your devices from there and edit the number of the lines 7 and 9 or set your default mic to your Capture Card device</p>
 
   
   
