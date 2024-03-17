@@ -38,4 +38,4 @@ Technologies used in the project:
 
 <h2>💖Like my work?</h2>
 
-For Support and other join my<p>[Discord](https://discord.gg/UPaXWE9GhZ)https://discord.gg/UPaXWE9GhZ</p>
+For Support and other join my<p>[Discord](https://discord.gg/UPaXWE9GhZ)</p>
