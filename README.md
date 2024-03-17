@@ -2,6 +2,8 @@
 
 <p id="description">A Video and Audio Sync for cheap capture cards you bought on Amazon</p>
 
+<p id="description">A .EXE VERSION IS COMING SOON [1-2 Weeks]</p>
+
 
 <h2>🧐 Features</h2>
 
