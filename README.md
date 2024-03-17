@@ -2,7 +2,7 @@
 
 <p id="description">A Video and Audio Sync for cheap capture cards you bought on Amazon</p>
 
-<h1 id="notice" color="red">A .EXE VERSION IS COMING SOON [1-2 Weeks]</h1>
+<font><h1 id="notice" color="red">A .EXE VERSION IS COMING SOON [1-2 Weeks]</h1></font>
 
 
 <h2>🧐 Features</h2>
