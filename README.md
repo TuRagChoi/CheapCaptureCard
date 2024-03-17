@@ -39,3 +39,4 @@ Technologies used in the project:
 <h2>💖Like my work?</h2>
 
 For Support and other join my<p>[Discord](https://discord.gg/UPaXWE9GhZ)</p>
+<iframe src="https://discord.com/widget?id=1136754469237952582&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
